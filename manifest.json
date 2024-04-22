@@ -26,7 +26,7 @@
     "gecko": {
       "id": "toggleMessagePane@dillinger",
       "strict_min_version": "91.0",
-      "strict_max_version": "*"
+      "strict_max_version": "127.*"
     }
   },
   "icons": {

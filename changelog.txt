@@ -1,5 +1,8 @@
 Changelog for Toggle Message Pane
 
+1.8
+ESMified the add-on.
+
 1.7
 ESMified the add-on.
 Set minimum version to Thunderbird 128.0.

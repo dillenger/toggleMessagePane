@@ -2,11 +2,13 @@ Changelog for Toggle Message Pane
 
 1.8
 ESMified the add-on.
+Set minimum version to Thunderbird 115.0.
+Set maximum version to Thunderbird 136.*.
 
 1.7
-ESMified the add-on.
-Set minimum version to Thunderbird 128.0.
-Set maximum version to Thunderbird 129.*.
+Removed deprecated code for Services.jsm.
+Set minimum version to Thunderbird 102.0.
+Set maximum version to Thunderbird 127.*. 
 
 1.6
 Fixed Toggle Message Pane sometimes not working on startup.
